@@ -7,3 +7,4 @@ SoundFile==0.10.3.post1
 streamlit==1.13.0
 whisper==1.0
 pyannote.audio
+sndfile
